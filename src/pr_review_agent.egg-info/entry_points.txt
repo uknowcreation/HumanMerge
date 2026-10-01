@@ -1,2 +1,0 @@
-[console_scripts]
-pr-review-agent = pr_review_agent.cli:main
